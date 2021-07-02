@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" style="scroll-behavior: smooth;
+">
+<head><link rel="stylesheet" href="/index.HASH_REF_91870f3c19f8a82cc61dbb48b05be581.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+
+    
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans&family=Playfair+Display+SC:wght@700&family=Poiret+One&family=Yeseva+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="form-wrapper">
+        <header>
+            <ul>
+                <li><a href="/">HOME</a></li>
+                <li><a href="https://github.com/aioun-ch">WORK</a></li>
+                <li><a href="#">CONTACT</a></li>
+            </ul>
+        </header>
+        <h1 class="head">Portfolio.</h1>
+        <img class="logo" src="/aioun.HASH_REF_732843d2833f252cbb9672ba50119b28.JPG" alt="Aioun Photo">
+        <div class="page text-title">
+            <p>Hi! , I'm Naphat</p>
+            <div class="page text-Decs">
+                <p>I am studying in Bachelor's degree at King Mongkut's Institute of Technology Ladkrabang, Faculty of Sciences in Applied Mathematics.</p>
+                <p>I learned about Java,Object-Oriented programming,MySql Database and Python.</p>
+                <p>Now, I’m learning programming with the Hello Spec team and developing myself as a professional system developer.</p>
+            </div>
+            <form action="">
+                <div class="row">
+                    <div class="medium-6 columns">
+                        <label for="Name"> Name:
+                            <input type="text" placeholder="Your name">
+                        </label>
+                    </div>
+                    <div class="medium-6 columns">
+                        <label for="Email"> Email:
+                            <input type="text" placeholder="Your Email">
+                        </label>
+                    </div>
+                    <div class="medium-12 columns">
+                        <label for="Message"> Message:
+                            <textarea name="Message" id="" cols="30" rows="10">Message</textarea>
+                        </label>
+                        <button class="btn">Sent</button>
+                    </div>
+                    <div class="page phone">
+                        <p>PHONE: +666 4965 4462 (TH)</p>
+                        <p>EMAIL: NAPHATCHAN486@GMAIL.COM</p>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+
+    <script type="text/javascript" src="/index.HASH_REF_0fa2489aa94c8731ee2aee9f3fafb3e2.js"></script>
+</body>
+</html>

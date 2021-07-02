@@ -1,0 +1,63 @@
+body {
+  background: #e94626;
+  background: linear-gradient(90deg, rgba(233, 70, 38, 0.453427065) 0%, #e2dbdb 50%, rgba(233, 70, 38, 0.45) 100%);
+  min-height: 100vh;
+  line-height: 1.5;
+  background-repeat: no-repeat;
+}
+
+.head {
+  font-family: "Yeseva One";
+  font-size: 4.5em;
+  margin: 20px;
+  margin-left: 20px;
+}
+
+.logo {
+  width: 400px;
+  display: block;
+  background-color: lightgrey;
+  border-radius: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-title {
+  font-family: "Playfair Display SC", serif;
+  font-size: 100px;
+  padding: 1em;
+}
+
+.text-Decs {
+  font-family: "DM Sans", sans-serif;
+  font-size: 45px;
+  padding: 1em;
+}
+
+.phone {
+  font-size: 12px;
+  font-family: "Poiret One", cursive;
+}
+
+header {
+  position: absolute;
+  font-family: "Poiret One", cursive;
+}
+
+header ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header ul li {
+  list-style: none;
+  margin-left: 20px;
+}
+
+header ul li a {
+  text-decoration: none;
+  padding: 6px 15px;
+  color: black;
+}
+/*# sourceMappingURL=index.HASH_REF_91870f3c19f8a82cc61dbb48b05be581.css.map */

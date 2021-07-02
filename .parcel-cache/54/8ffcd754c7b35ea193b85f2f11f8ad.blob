@@ -1,0 +1,15 @@
+.page {
+  border: 10px;
+  padding: auto;
+}
+
+.head {
+  font-size: 78px;
+}
+
+.logo {
+  width: 128px;
+  height: 128px;
+  display: block;
+  background-color: lightgrey;
+}

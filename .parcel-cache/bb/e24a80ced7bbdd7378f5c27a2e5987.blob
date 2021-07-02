@@ -1,0 +1,5 @@
+body {
+  background: black;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+}

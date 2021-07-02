@@ -1,0 +1,29 @@
+body {
+  background: #e2dbdb;
+  background: linear-gradient(90deg, rgba(233, 70, 38, 0.6643233743) 0%, #e2dbdb 50%, rgba(233, 70, 38, 0.7873462214) 100%);
+  background-repeat: no-repeat;
+  height: 800px;
+  line-height: 1.5;
+}
+
+.head {
+  font-family: "Source Code Pro", monospace;
+  font-size: 48px;
+  margin: 0;
+  margin-left: 20px;
+}
+
+.logo {
+  width: 200px;
+  display: block;
+  background-color: lightgrey;
+  border-radius: 10rem;
+  margin-left: 50px;
+}
+
+.text-title {
+  font-size: 32px;
+  font-family: "Red Hat Display", sans-serif;
+  width: 500px;
+}
+/*# sourceMappingURL=index.HASH_REF_91870f3c19f8a82cc61dbb48b05be581.css.map */

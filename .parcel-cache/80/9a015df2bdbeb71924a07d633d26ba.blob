@@ -1,0 +1,27 @@
+body {
+  background-color: #e2dbdb;
+  background-color: linear-gradient(90deg, #e2dbdb 0%, rgba(233, 70, 38, 0.4586994728) 50%, #e2dbdb 100%);
+  height: 800px;
+  line-height: 1.5;
+}
+
+.head {
+  font-family: "Source Code Pro", monospace;
+  font-size: 48px;
+  margin: 0;
+  margin-left: 20px;
+}
+
+.logo {
+  width: 200px;
+  display: block;
+  background-color: lightgrey;
+  border-radius: 10rem;
+  margin-left: 50px;
+}
+
+.text-title {
+  font-size: 32px;
+  font-family: "Red Hat Display", sans-serif;
+  width: 500px;
+}

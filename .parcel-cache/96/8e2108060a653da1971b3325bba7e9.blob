@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="stylesheet" href="/index.HASH_REF_91870f3c19f8a82cc61dbb48b05be581.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata&family=Red+Hat+Display:ital@1&family=Source+Code+Pro&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="page">
+        <h1 class="head">Portfolio.</h1>
+        <img class="logo" src="/aioun.HASH_REF_732843d2833f252cbb9672ba50119b28.JPG" alt="Aioun Photo">
+    </div>
+    <p class="text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus esse quaerat praesentium impedit nam, ab repudiandae dolores blanditiis neque modi sunt vitae unde, eum inventore incidunt eligendi non, cumque perspiciatis!</p>
+    
+
+    <script type="text/javascript" src="/index.HASH_REF_0fa2489aa94c8731ee2aee9f3fafb3e2.js"></script>
+</body>
+</html>

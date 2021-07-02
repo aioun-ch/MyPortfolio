@@ -1,0 +1,29 @@
+body {
+  background: #eb8084;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #adcaee, #faf6e0, #f2bcbe);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #94c2f9, #faf6e0, #fa8488);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+.page {
+  border: 10px;
+  padding: auto;
+}
+
+.head {
+  font-family: "Source Code Pro", monospace;
+  font-size: 48px;
+}
+
+.logo {
+  width: 200px;
+  display: block;
+  background-color: lightgrey;
+  border-radius: 10rem;
+  padding: 10rem;
+}
+/*# sourceMappingURL=index.HASH_REF_91870f3c19f8a82cc61dbb48b05be581.css.map */

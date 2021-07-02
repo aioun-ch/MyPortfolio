@@ -1,0 +1,17 @@
+.page {
+  border: 10px;
+  padding: auto;
+}
+
+.head {
+  font-family: "Source Code Pro", monospace;
+  font-size: 48px;
+}
+
+.logo {
+  width: 200px;
+  display: block;
+  background-color: lightgrey;
+  padding-bottom: 0.5rem;
+}
+/*# sourceMappingURL=index.HASH_REF_91870f3c19f8a82cc61dbb48b05be581.css.map */

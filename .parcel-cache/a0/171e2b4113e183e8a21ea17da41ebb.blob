@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <h1 class="head">Portfolio</h1>
+    <a href="59ea46f64b1ca03ef795212a77f3ff8f" class="logo-photo">
+        <img src="9240cec70dc343cd3a1ca4814d78b686" alt="Aioun Photo">
+    </a>
+    
+
+    <script type="text/javascript" src="6b4bdb555d7e3a8d549ded548e319b64"></script>
+</body>
+</html>
